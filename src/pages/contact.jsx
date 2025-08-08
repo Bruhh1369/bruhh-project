@@ -34,6 +34,7 @@ const Contact = () => {
                             <GreenButton
                                 tagName="button"
                                 buttonType="submit"
+                                childElement={<p>Submit</p>}
                             />
                         </div>
                     </form>

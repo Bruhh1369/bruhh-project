@@ -162,4 +162,25 @@
     .profile-card {
         flex-direction: column;
     }
+
+    .ts-card-main {
+        grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));
+        gap: 8px;
+        padding: 8px;
+    }
+    .ts-wrapper p {
+        font-size: 0.95em;
+        padding: 4px 4px 4px 6px;
+    }
+    .ts-renderer {
+        padding: 6px;
+    }
+    .ts-renderer img {
+        height: 48px;
+        width: 48px;
+        margin-right: 6px;
+    }
+    .value-1, .value-0 {
+        height: 28px;
+    }
 }
