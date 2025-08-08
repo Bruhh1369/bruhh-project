@@ -1,0 +1,30 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-1);
+    padding: 8px 0;
+}
+.footer-container {
+    display: flex;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-color);
+    width: 76%;
+}
+.footer-container > h2 {
+    font-size: 300%;
+    padding-right: 10px;
+}
+.footer-container p {
+    font-size: 14px;
+}
+#bleh {
+    font-weight: bold;
+}
+#huh {
+    margin: 2px 0;
+}

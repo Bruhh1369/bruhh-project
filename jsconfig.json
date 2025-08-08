@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "@cards": ["assets/templates/ore-ui/cards/ore-ui-card"],
+            "@buttons": ["assets/templates/ore-ui/buttons/ore-ui-button"]
+        }
+    },
+    "include": ["src"]
+}

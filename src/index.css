@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url("./assets/fonts/Minecraft.otf") format("opentype");
+}
+@font-face {
+    font-family: "MinecraftFive";
+    src: url("./assets/fonts/MinecraftFive.ttf") format("truetype");
+}
+:root {
+    --color-1: #0f1016;
+    --color-2: #1f212d;
+    --text-color: #f0f0f0;
+    --accent-color: #006aff;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Minecraft', 'Segoe UI', Tahoma, Sans-Serif;
+}
+body {
+    background: url('./assets/webbg.png') no-repeat center fixed;
+    background-size: cover;
+}
