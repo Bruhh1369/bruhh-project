@@ -58,7 +58,7 @@
     font-family: "MinecraftFive";
 }
 
-.ts-card-main, .faq-card-main {
+.faq-card-main {
     width: 100%;
     border-image: url(/src/assets/templates/ore-ui/cards/card-main.png) 0 2 0 2 fill / 0px 2px 0px 2px;
     height: fit-content;
@@ -66,6 +66,17 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 15px;
+    padding: 15px;
+}
+
+.ts-card-main {
+    width: 100%;
+    border-image: url(/src/assets/templates/ore-ui/cards/card-main.png) 0 2 0 2 fill / 0px 2px 0px 2px;
+    height: fit-content;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    justify-content: center;
     gap: 15px;
     padding: 15px;
 }
