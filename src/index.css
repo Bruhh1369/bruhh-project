@@ -19,8 +19,12 @@
 }
 html {
     font-family: 'Minecraft', 'Segoe UI', Tahoma, Sans-Serif;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 body {
     background: url('./assets/webbg.png') no-repeat center fixed;
     background-size: cover;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
