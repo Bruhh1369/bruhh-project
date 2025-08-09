@@ -7,7 +7,7 @@ const ProfileCard = (props) => {
         <div className="profile-card">
             <div className="profile-card-main">
                 <img
-                    src={`/post-images/${props.thumbnail}`}
+                    src="webicon.png"
                     alt="pfp"
                 />
             </div>
@@ -41,7 +41,7 @@ const TsWrapper = ({ name = "Unknown", rank = "Beginner" }) => {
         <div className="ts-wrapper">
             <p>{name} - {rank}</p>
             <div className="ts-renderer">
-                <img src={`/languages/${name}.svg`} alt={name} className="ts-icon" />
+                <img src={`/svgs/${name}.svg`} alt={name} className="ts-icon" />
                 <TsValues rank={rank} />
             </div>
         </div>

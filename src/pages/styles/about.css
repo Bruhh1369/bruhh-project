@@ -103,7 +103,6 @@
 
 .ts-renderer img {
     display: inline-block;
-    background-color: red;
     height: 48px;
     width: 48px;
     margin-right: 6px;
@@ -139,7 +138,6 @@
 }
 
 .profile-card-main img {
-    background-color: red;
     width: 120px;
     height: 120px;
     display: block;
