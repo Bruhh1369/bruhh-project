@@ -88,7 +88,7 @@ const About = () => {
     return (
         <div className="profile-page">
             <ProfileCard
-                description="lorem dfn djnehdftgyed wwytdyaub  wqyhdjb  yewhdbwdyh ywedhwbn hvsdbabasbxhabsxaxjhbashb bhsxjhashxb fdgydunsqwertyuiopoiughdvcuhgsdfuihdjfnawf        h"
+                description="lorem dfn djnehdftgyed wwytdyaub  wqyhdjb  yewhdbwdyh ywedhwbn hvsdbabasbxhabsxaxjsedrftyugyut5ewuytftrtytdsygeuedcshvcahddbcusbgfubwhi linen rein dhcudgfyugdcuygdyudhbfyuebecsefgyuewgfeawhbhbashb bhsxjhashxb fdgydunsqwertyuiopoiughdvcuhgsdfuihdjfnawf        h"
             />
             <div className="ts-card">
                 <div className="ts-card-header">

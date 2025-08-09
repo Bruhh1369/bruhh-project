@@ -75,10 +75,10 @@
     border-image: url(/src/assets/templates/ore-ui/cards/card-main.png) 0 2 0 2 fill / 0px 2px 0px 2px;
     height: fit-content;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));
     justify-content: center;
-    gap: 15px;
-    padding: 15px;
+    gap: 8px;
+    padding: 8px;
 }
 
 .ts-wrapper {
@@ -86,13 +86,14 @@
 }
 
 .ts-wrapper p {
-    padding: 6px 6px 6px 8px;
+    padding: 4px 4px 4px 6px;
     border: solid 2px blue;
+    font-size: 0.95em;
 }
 
 .ts-renderer {
     border: solid 2px red;
-    padding: 10px;
+    padding: 6px;
     display: flex;
     align-items: center;
 }
@@ -100,23 +101,23 @@
 .ts-renderer img {
     display: inline-block;
     background-color: red;
-    height: 78px;
-    width: 78px;
-    margin-right: 10px;
+    height: 48px;
+    width: 48px;
+    margin-right: 6px;
 }
 
 .value-1 {
     background-color: aqua;
     flex-grow: 1;
     border: solid 2px orangered;
-    height: 50px;
+    height: 28px;
 }
 
 .value-0 {
     background-color: gray;
     flex-grow: 1;
     border: solid 2px orangered;
-    height: 50px;
+    height: 28px;
 }
 
 .profile-card {
@@ -145,9 +146,15 @@
 .profile-card-footer {
     width: 100%;
     border-image: url(/src/assets/templates/ore-ui/cards/card-footer.png) 2 2 4 2 fill / 2px 2px 4px 2px;
-    align-content: center;
-    justify-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 10px;
+}
+
+.profile-card-footer p {
+    width: 100%;
+    flex-wrap: wrap;
 }
 
 @media (max-width: 628px) {
@@ -161,26 +168,5 @@
 
     .profile-card {
         flex-direction: column;
-    }
-
-    .ts-card-main {
-        grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));
-        gap: 8px;
-        padding: 8px;
-    }
-    .ts-wrapper p {
-        font-size: 0.95em;
-        padding: 4px 4px 4px 6px;
-    }
-    .ts-renderer {
-        padding: 6px;
-    }
-    .ts-renderer img {
-        height: 48px;
-        width: 48px;
-        margin-right: 6px;
-    }
-    .value-1, .value-0 {
-        height: 28px;
     }
 }
