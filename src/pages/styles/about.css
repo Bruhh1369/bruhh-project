@@ -48,7 +48,11 @@
 }
 
 .faq-description {
-    padding: 6px;
+    border-image: url(/src/assets/templates/ore-ui/cards/card-footer-bottommost.png) 4 4 2 4 fill / 4px 4px 2px 4px;
+}
+
+.faq-description p {
+    margin: 8px;
 }
 
 .ts-card-header,
@@ -89,14 +93,14 @@
 }
 
 .ts-wrapper p {
-    padding: 4px 4px 4px 6px;
-    border: solid 2px blue;
+    padding: 6px 6px 6px 8px;
+    border-image: url(/src/assets/templates/ore-ui/cards/card-header.png) 4 4 2 4 fill / 4px 4px 2px 4px;
     font-size: 0.95em;
 }
 
 .ts-renderer {
-    border: solid 2px red;
-    padding: 6px;
+    border-image: url(/src/assets/templates/ore-ui/cards/card-footer-bottommost.png) 4 4 2 4 fill / 4px 4px 2px 4px;
+    padding: 8px;
     display: flex;
     align-items: center;
 }
@@ -109,16 +113,16 @@
 }
 
 .value-1 {
-    background-color: aqua;
+    background-color: lime;
     flex-grow: 1;
-    border: solid 2px orangered;
+    border: solid 2px gray;
     height: 28px;
 }
 
 .value-0 {
     background-color: gray;
     flex-grow: 1;
-    border: solid 2px orangered;
+    border: solid 2px gray;
     height: 28px;
 }
 

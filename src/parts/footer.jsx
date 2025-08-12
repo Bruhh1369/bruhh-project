@@ -4,9 +4,9 @@ import './styles/footer.css'
 const Footer = () => {
     return (
         <footer>
-            <div class="footer-container">
+            <div className="footer-container">
                 <h2>@</h2>
-                <div class="footer-text">
+                <div className="footer-text">
                     <p id="bleh">
                         Bruhh's Project
                     </p>
