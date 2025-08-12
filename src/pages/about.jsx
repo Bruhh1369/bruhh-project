@@ -53,14 +53,14 @@ const FAQCard = ({ description, question }) => {
 
     return (
         <div className="faq-card-item">
-            <button className={clsx("faq-button")} onClick={() => setOpen((prev) => !prev)}>
+            <button className="faq-button" onClick={() => setOpen((prev) => !prev)}>
                 <p>{question}</p>
                 <span className="faq-button-icon">
                     <p>{open ? "-" : "+"}</p>
                 </span>
             </button>
-            <div className="faq-description">
-                {open && <p>{description}</p>}
+            <div className={clsx("faq-description", { open })}>
+                <p>{description}</p>
             </div>
         </div>
     );

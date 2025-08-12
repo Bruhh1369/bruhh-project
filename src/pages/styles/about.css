@@ -49,6 +49,17 @@
 
 .faq-description {
     border-image: url(/src/assets/templates/ore-ui/cards/card-footer-bottommost.png) 4 4 2 4 fill / 4px 4px 2px 4px;
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s;
+    will-change: max-height, opacity;
+}
+
+.faq-description.open {
+    max-height: 200px;
+    opacity: 1;
+    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s;
 }
 
 .faq-description p {
@@ -112,17 +123,19 @@
     margin-right: 6px;
 }
 
+
 .value-1 {
     background-color: lime;
+    border: 2px solid #4caf50;
     flex-grow: 1;
-    border: solid 2px gray;
     height: 28px;
 }
 
+
 .value-0 {
-    background-color: gray;
+    background: rgba(180, 180, 180, 0.3);
+    border: 2px dashed #bdbdbd;
     flex-grow: 1;
-    border: solid 2px gray;
     height: 28px;
 }
 
