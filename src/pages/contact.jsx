@@ -45,7 +45,7 @@ const Contact = () => {
                     <p>Socials</p>
                 </div>
                 <div className="social-card-content">
-
+                    ere
                 </div>
             </div>
         </div>
