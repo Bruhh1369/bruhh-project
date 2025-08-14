@@ -90,7 +90,7 @@
 
 .ts-card-main {
     width: 100%;
-    border-image: url(/src/assets/templates/ore-ui/cards/card-main.png) 0 2 0 2 fill / 0px 2px 0px 2px;
+    border-image: url(/src/assets/templates/ore-ui/cards/card-footer-bottommost.png) 4 4 2 4 fill / 4px 4px 2px 4px;
     height: fit-content;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(212px, 1fr));

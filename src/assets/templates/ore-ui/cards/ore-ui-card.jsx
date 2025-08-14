@@ -1,5 +1,5 @@
 import React from "react";
-import { GreenButton } from "@buttons";
+import { PackButton } from "@buttons";
 import "./ore-ui-card.css";
 
 export const PostCard = ({ packname = "pack-name", thumbnail = "pack-thumbnail", linkSlug }) => {
@@ -15,10 +15,10 @@ export const PostCard = ({ packname = "pack-name", thumbnail = "pack-thumbnail",
         />
       </div>
       <div className="card-footer">
-        <GreenButton
+        <PackButton
+          to={`/pack/${linkSlug}`}
           secondClass="card-button"
           childElement={<p>Learn more...</p>}
-          hyperLink={`https://mcpedl.com/${linkSlug}`}
         />
       </div>
     </div>
