@@ -1,5 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
+import './packs.css';
 
 const packs = {
     "bedrock-ui-plus-b69-2": {
@@ -21,7 +22,7 @@ const PacksInfo = () => {
     const pack = packs[slug];
 
     if (!pack) {
-        return <div>Pack not found</div>;
+        return <div className="pack-not-found">Pack not found</div>;
     }
 
     return (

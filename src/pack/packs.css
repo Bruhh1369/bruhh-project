@@ -1,0 +1,10 @@
+.pack-info {
+    color: white;
+}
+
+.pack-not-found {
+    color: red;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 20px;
+}
