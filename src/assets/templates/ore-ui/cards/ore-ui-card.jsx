@@ -1,5 +1,5 @@
-import React from "react";
 import { PackButton } from "@buttons";
+import React from "react";
 import "./ore-ui-card.css";
 
 export const PostCard = ({ packname = "pack-name", thumbnail = "pack-thumbnail", linkSlug }) => {

@@ -1,11 +1,11 @@
+import { Routes, Route } from 'react-router-dom'
 import Footer from './parts/footer'
 import Home from './pages/home'
 import About from './pages/about'
 import Contact from './pages/contact'
 import Navigation from './parts/navigation'
-import './App.css'
-import { Routes, Route } from 'react-router-dom'
 import PacksInfo from './pack/packs.jsx'
+import './App.css'
 
 function App() {
     return (
