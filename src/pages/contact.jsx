@@ -28,7 +28,15 @@ const Contact = () => {
                         </div>
                         <div className="input-wrapper">
                             <label htmlFor="message">Message</label>
-                            <textarea name="message" id="message" required></textarea>
+                            <textarea
+                                name="message"
+                                id="message"
+                                required
+                                onInput={e => {
+                                    e.target.style.height = "auto";
+                                    e.target.style.height = e.target.scrollHeight + "px";
+                                }}
+                            ></textarea>
                         </div>
                         <div className="input-wrapper">
                             <GreenButton

@@ -112,8 +112,12 @@ nav input[type="checkbox"] {
     
     #close-menu {
         display: block;
-        margin-left: 240%;
+        margin-left: auto;
         margin-top: 4px;
+    }
+
+    .home-button-text > div {
+        width: 100%;
     }
     
     .nav-button {

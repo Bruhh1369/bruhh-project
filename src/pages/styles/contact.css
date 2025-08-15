@@ -49,6 +49,7 @@
     color: white;
     font-family: inherit;
     padding: 20px;
+    overflow-y: hidden;
 }
 
 .input-wrapper input:focus,
