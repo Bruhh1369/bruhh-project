@@ -2,25 +2,26 @@ import { PackButton } from "@buttons";
 import React from "react";
 import "./ore-ui-card.css";
 
-export const PostCard = ({ packname = "pack-name", thumbnail = "pack-thumbnail", linkSlug }) => {
-  return (
+export const PostCard = ({ postlist }) => {
+
+  return postlist.map(e => (
     <div className="card">
       <div className="card-header">
-        <p>{packname}</p>
+        <p>{e.packname}</p>
       </div>
       <div className="card-main">
         <img
-          src={`/post-images/${thumbnail}`}
-          alt={thumbnail}
+          src={`/post-images/${e.thumbnail}`}
+          alt={e.thumbnail}
         />
       </div>
       <div className="card-footer">
         <PackButton
-          to={`/pack/${linkSlug}`}
+          to={`/pack/${e.linkSlug}`}
           secondClass="card-button"
           childElement={<p>Learn more...</p>}
         />
       </div>
     </div>
-  )
+  ))
 };
