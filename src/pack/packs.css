@@ -1,77 +1,48 @@
 .pack-info {
-    color: white;
-    background-color: darkslategray;
-    height: 100%;
-}
-
-.pack-not-found {
-    color: red;
-    font-size: 1.5em;
-    text-align: center;
-    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 .carousel {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    gap: 10px;
-    margin-bottom: 20px;
-    padding-top: 28px;
+    gap: 1em;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    scroll-behavior: smooth;
+    anchor-name: --carousel;
+    scroll-snap-type: x mandatory;
 }
 
-.carousel-btns {
-    display: flex;
-}
-
-.carousel-btn {
-    background: rgba(0, 0, 0, 0.6);
-    font-family: "Minecraft";
-    color: #fff;
+.carousel::scroll-button(right), .carousel::scroll-button(left) {
+    content: ">";
     border: none;
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.5em;
+    background: white;
+    font-family: "Minecraft";
+    opacity: 1;
+    width: 134px;
+    height: 28px;
     cursor: pointer;
-    z-index: 2;
-    transition: background 0.2s;
+    position: fixed;
+    position-anchor: --carousel;
+    right: 0;
+    transform: translateY(225px);
 }
 
-.carousel-btn.left {
-    margin-right: auto;
-    margin-left: 12px;
+.carousel::scroll-button(left) {
+    content: "<";
+    left: 0;
 }
 
-.carousel-btn.right {
-    margin-left: auto;
-    margin-right: 12px;
-}
-
-.carousel-btn:hover {
-    background: rgba(0, 0, 0, 0.8);
-}
-
-.carousel-img {
+.carousel-image {
     width: 100%;
     height: auto;
 }
 
-.pack-desc {
-    text-align: center;
-    padding: 20px 0;
-}
-
-.download {
-    height: 100%;
-    padding-bottom:154px;
-}
-
-.download a {
-    text-decoration: none;
-    height: 52px;
-    margin: 0 20px;
+.carousel-card {
+    flex: 0 0 100%;
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    scroll-snap-align: start;
 }

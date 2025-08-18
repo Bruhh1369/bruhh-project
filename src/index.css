@@ -21,10 +21,14 @@ html {
     font-family: 'Minecraft', 'Segoe UI', Tahoma, Sans-Serif;
     overflow-x: hidden;
     overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 body {
     background: url('./assets/webbg.png') no-repeat center fixed;
     background-size: cover;
     overflow-x: hidden;
     overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
