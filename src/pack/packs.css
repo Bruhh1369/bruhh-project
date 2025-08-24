@@ -1,48 +1,41 @@
 .pack-info {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .carousel {
+    width: 100%;
     display: flex;
-    gap: 1em;
     overflow-x: auto;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-    scroll-behavior: smooth;
-    anchor-name: --carousel;
     scroll-snap-type: x mandatory;
+    background-color: red;
+    padding-top: 1rem;
+    flex-direction: column;
+    align-items: center;
 }
 
-.carousel::scroll-button(right), .carousel::scroll-button(left) {
-    content: ">";
-    border: none;
-    background: white;
-    font-family: "Minecraft";
-    opacity: 1;
-    width: 134px;
-    height: 28px;
-    cursor: pointer;
-    position: fixed;
-    position-anchor: --carousel;
-    right: 0;
-    transform: translateY(225px);
+.carousel-buttons {
+    display: flex;
+    width: 100%;
+    padding: 22px 16px 0 16px;
 }
 
-.carousel::scroll-button(left) {
-    content: "<";
-    left: 0;
+.carousel-left, .carousel-right {
+    width: 48px;
+    height: 48px;
+    background-color: white;
+    display: block;
+}
+
+.carousel-spacer {
+    width: 100%;
+}
+
+.carousel::-webkit-scrollbar {
+    display: none;
 }
 
 .carousel-image {
     width: 100%;
-    height: auto;
-}
-
-.carousel-card {
-    flex: 0 0 100%;
-    width: 100%;
-    height: auto;
-    max-width: 400px;
-    scroll-snap-align: start;
+    max-width: 440px;
 }

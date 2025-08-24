@@ -6,7 +6,7 @@ import { GreenButton } from '@buttons';
 const packs = {
     "bedrock-ui-plus-b69-2": {
         title: "Bedrock UI+",
-        pictures: ["/post-images/bedrockuiplus.png", "/post-images/hudplusreworked.png", "/post-images/bedrockuiplus.png","/post-images/bedrockuiplus.png","/post-images/bedrockuiplus.png","/post-images/bedrockuiplus.png",],
+        pictures: ["/post-images/bedrockuiplus.png"/*, "/post-images/hudplusreworked.png", "/post-images/bedrockuiplus.png","/post-images/bedrockuiplus.png","/post-images/bedrockuiplus.png","/post-images/bedrockuiplus.png"*/],
         description: "A modern UI pack that enhances the user interface of Minecraft Bedrock Edition."
     },
     "improved-plus-b69": {
@@ -33,11 +33,14 @@ const PacksInfo = () => {
     return (
         <div className="pack-info">
             <div className="carousel">
-                {pack.pictures.map((picture) => (
-                    <div className="carousel-card">
-                        <img src={picture} alt={pack.title} className="carousel-image" />
-                    </div>
-                ))}
+                {pack.pictures.map(picture => 
+                    <img src={picture} alt={pack.title} className="carousel-image" />
+                )}
+                <div className="carousel-buttons">
+                    <a className="carousel-left"></a>
+                    <div className="carousel-spacer"></div>
+                    <a className="carousel-right"></a>
+                </div>
             </div>
         </div>
     );
