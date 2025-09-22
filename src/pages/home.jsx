@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './styles/home.css'
 import { PostCard } from '@cards'
-import { DarkButton, GreenButton } from '@buttons';
+import { GreenButton } from '@buttons';
 
 const LoadingScreen = () => {
 
@@ -47,7 +47,6 @@ const Home = () => {
 
     const postCount = postData.data.length
     console.log(postCount)
-
 
     return (
         <main>
