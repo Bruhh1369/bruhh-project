@@ -22,6 +22,9 @@ footer {
 .footer-container p {
     font-size: 14px;
 }
+.footer-text {
+    width: 18.5rem;
+}
 #bleh {
     font-weight: bold;
 }

@@ -43,9 +43,7 @@ const Home = () => {
         fetchPost()
     }, [currentPage])
 
-    if (!postData) return <LoadingScreen />
-
-    const postCount = postData.data.length
+    const postCount = postData?.data?.length ?? 0
     console.log(postCount)
 
     return (
@@ -55,7 +53,11 @@ const Home = () => {
                     currentPage <= 1 ? <div className="ore-button empty"></div> :
                         <GreenButton
                             childElement={<p>prev</p>}
-                            onClick={() => setCurrentPage(prev => prev - 1)}
+                            onClick={() => {
+                                setCurrentPage(prev => prev - 1)
+                                setPostData(null)
+                                setSearchValue("")
+                            }}
                         />
                 }
                 <input
@@ -69,18 +71,26 @@ const Home = () => {
                     postCount < 10 ? <div className="ore-button empty"></div> :
                         <GreenButton
                             childElement={<p>next</p>}
-                            onClick={() => setCurrentPage(prev => prev + 1)}
+                            onClick={() => {
+                                setCurrentPage(prev => prev + 1)
+                                setPostData(null)
+                                setSearchValue("")
+                            }}
                         />
                 }
             </div>
             <div className="posts-wrapper">
-                <PostCard
-                    postlist={
-                        postData.data.filter(post =>
-                            post.title.toLowerCase().includes(searchValue.toLowerCase())
-                        )
-                    }
-                />
+                {
+                    !postData
+                        ? <LoadingScreen />
+                        : <PostCard
+                            postlist={
+                                postData.data.filter(post =>
+                                    post.title.toLowerCase().includes(searchValue.toLowerCase())
+                                )
+                            }
+                        />
+                }
             </div>
         </main>
     )
