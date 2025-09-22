@@ -1,0 +1,2061 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "slug": "animated-glowing-ores",
+            "source": "curseforge",
+            "title": "Animated Glowing Ores",
+            "summary": "[Requires Vibrant visuals!] This pack makes the ores becomes glowing and more visible in dark caves",
+            "image": "https://media.forgecdn.net/attachments/1184/927/1000586191-gif.gif",
+            "created_at": "2025-05-11T13:14:16.113Z",
+            "sort_date": "2025-09-18 14:09:11",
+            "popular": {
+                "popular_week": "2968",
+                "popular_month": "11736",
+                "popular_all": "116919"
+            },
+            "tags": [
+                {
+                    "id": 182,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "16x",
+                    "slug": "16x",
+                    "term_id": 486,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/animated-glowing-ores",
+            "downloadCount": 341802,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/null/description_6bb62644-29b1-486b-b40b-3c323af0cf4b.gif",
+                "https://media.forgecdn.net/attachments/description/null/description_3b402669-e8c4-42a0-ade0-f8ce49e16242.gif"
+            ],
+            "downloads": [
+                {
+                    "name": "Animated Glowing Ores v1.3.23.mcpack",
+                    "filename": "Animated Glowing Ores v1.3.23.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/7008/989/Animated%20Glowing%20Ores%20v1.3.23.mcpack",
+                    "fileLength": 172336
+                },
+                {
+                    "name": "Animated Glowing Ores v1.3.22.mcpack",
+                    "filename": "Animated Glowing Ores v1.3.22.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6992/529/Animated%20Glowing%20Ores%20v1.3.22.mcpack",
+                    "fileLength": 172336
+                }
+            ],
+            "submission_id": 4346001263566,
+            "original_submission_id": 0,
+            "mainFileId": 7008989,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "[Requires Vibrant visuals!] This pack makes the ores becomes glowing and more visible in dark caves",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1184/927/1000586191-gif.gif",
+                "medium": "https://media.forgecdn.net/attachments/1184/927/1000586191-gif.gif",
+                "small": "https://media.forgecdn.net/attachments/1184/927/1000586191-gif.gif"
+            },
+            "update_date": "2025-09-18 14:11:07",
+            "publish_date": "2025-09-18 14:11:07",
+            "id": 1263566,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "dynamic-bossbar-texture-minecraft-bedrock-1-21-60-b69",
+            "source": "curseforge",
+            "title": "Dynamic Bossbar",
+            "summary": "Are you bored with vanilla bossbar that just solid magenta color? Well, You've come to the right place, this pack change the old bossbar into something cooler and it's have different texture depend what boss do you fight",
+            "image": "https://media.forgecdn.net/attachments/1325/104/1000812708-png.png",
+            "created_at": "2025-04-15T13:16:20.717Z",
+            "sort_date": "2025-09-15 11:29:13",
+            "popular": {
+                "popular_week": "1271",
+                "popular_month": "2332",
+                "popular_all": "25269"
+            },
+            "tags": [
+                {
+                    "id": 183,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "32x",
+                    "slug": "32x",
+                    "term_id": 487,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 184,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "64x",
+                    "slug": "64x",
+                    "term_id": 489,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/dynamic-bossbar-texture-minecraft-bedrock-1-21-60-b69",
+            "downloadCount": 42808,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/1243304/description_b1407140-1c20-4823-a7bf-de0a77af0a79.png",
+                "https://media.forgecdn.net/attachments/description/1243304/description_9087aaaa-2144-4033-99dd-b1c2bf23f025.jpg",
+                "https://media.forgecdn.net/attachments/description/1243304/description_f9b97cef-7c55-4be7-8329-cad8c7ef3662.jpg",
+                "https://media.forgecdn.net/attachments/description/1243304/description_4f3ca84b-8b6d-49d6-b4a5-7366d9c81690.jpg",
+                "https://media.forgecdn.net/attachments/description/1243304/description_746f76fb-6816-4923-9a23-28608c7c1f08.jpg",
+                "https://media.forgecdn.net/attachments/description/1243304/description_2faaedfd-92c3-4a2a-a921-b0891e313b59.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "Dynamic Bossbar Texture v2.1.0.mcpack",
+                    "filename": "Dynamic Bossbar Texture v2.1.0.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6999/441/Dynamic%20Bossbar%20Texture%20v2.1.0.mcpack",
+                    "fileLength": 28222
+                },
+                {
+                    "name": "Dynamic Bossbar Texture v2.0.9.mcpack",
+                    "filename": "Dynamic Bossbar Texture v2.0.9.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6976/92/Dynamic%20Bossbar%20Texture%20v2.0.9.mcpack",
+                    "fileLength": 27865
+                }
+            ],
+            "submission_id": 128117,
+            "original_submission_id": 128117,
+            "mainFileId": 6999441,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "Are you bored with vanilla bossbar that just solid magenta color? Well, You've come to the right place, this pack change the old bossbar into something cooler and it's have diff...",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1325/104/1000812708-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1325/104/1000812708-png.png",
+                "small": "https://media.forgecdn.net/attachments/1325/104/1000812708-png.png"
+            },
+            "update_date": "2025-09-15 11:44:34",
+            "publish_date": "2025-09-15 11:44:34",
+            "id": 1243304,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "bedrock-ui-plus-b69-2",
+            "source": "curseforge",
+            "title": "Bedrock UI+",
+            "summary": "A brand new ui Overhauled from hud+, this ui improves a lots of ui screens, also have so many features that Will helps you in gameplay, such as survival, PVP, etc.",
+            "image": "https://media.forgecdn.net/attachments/1202/937/1000625158-png.png",
+            "created_at": "2025-04-14T13:33:23.94Z",
+            "sort_date": "2025-09-15 11:16:31",
+            "popular": {
+                "popular_week": "3909",
+                "popular_month": "14529",
+                "popular_all": "245246"
+            },
+            "tags": [
+                {
+                    "id": 182,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "16x",
+                    "slug": "16x",
+                    "term_id": 486,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 271,
+                    "category_id": null,
+                    "created_at": "2023-06-25T09:00:00.000000Z",
+                    "updated_at": "2023-06-25T09:00:00.000000Z",
+                    "name": "1.20.1",
+                    "slug": "1-20-1",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/bedrock-ui-plus-b69-2",
+            "downloadCount": 343860,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/null/description_7586b10a-c1c7-4ed7-8e70-d3b77f2c00e0.png",
+                "https://media.forgecdn.net/attachments/description/null/description_ac7e6dbe-ab06-40e7-be1c-e4a2a2985e3f.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_c22885eb-9ebd-4489-a6c1-a2ad1e0950b9.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_d33ff069-9c92-4d3d-8244-a36b8cd4f978.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_01e9357b-1414-45b5-8d30-32ac8b3bc625.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_8fd6105d-4ecb-42ee-bc8c-ec34ca9d1807.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_ba37135c-caea-46fc-a294-2dc53700fe45.png",
+                "https://media.forgecdn.net/attachments/description/1242671/description_f1c5c786-c38e-40e7-acf6-e10b3d2f3951.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_15166ffa-b012-406c-8684-6326f08bebd3.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_73b34b00-5366-4ba3-847f-82f147cdc15e.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_93e41247-1ee7-48fa-9e19-5b60b21795ed.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_9a50e7fd-ff42-4f5b-98a2-25d61c275271.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_3f43d98a-f0a5-4dd5-951b-639062584477.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_61f5b231-6c1a-4c57-ab4e-f3d3819dce7a.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_dfbe190c-ca1a-4c89-bc52-f97b913b8ae2.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_b8572140-3026-4a5c-85f9-879977ddb9c1.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_0c92dd3d-61b4-411a-a164-bdea75eacc19.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_d76b303a-cb3e-4ac3-9c55-157d78179556.png",
+                "https://media.forgecdn.net/attachments/description/1242671/description_03751662-c236-43f1-bb71-a93cc4548314.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_41db39bb-04fe-4d51-b352-cdb48a6290af.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_c712e9a9-9db4-403c-9980-c495a71f0535.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_eac80315-f3a6-47c5-bc4e-ce674320c3c0.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_5f49a800-489e-477a-9b4f-5cf4d5a41974.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_a245560e-897d-4354-ace1-e973746f86e9.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_32bb5157-ff48-44f5-9322-d4d0ea2e7fe6.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_c781f809-df39-4a0c-88fc-f4963e3ae817.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_0b22197d-8994-4ed6-9633-d6562f802db7.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_2ecfba25-0a25-4a89-a67e-3f838045f6ad.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_42d94d70-41c3-47ee-bcb9-1ad5c1f0690b.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_b17a548a-d2e8-4b43-ae0d-40471d5014b3.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_b4532d2a-81de-4a18-840b-c339eefbe0e2.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_e3b755b0-835b-4ea0-876d-e0d187c9777a.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_721323ea-47cf-4fe5-ab5c-af3b34f6f84e.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_0e44f445-926f-4395-8534-0106d2cf9a5f.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_5fa1b884-e70d-4a1d-aaea-cf5eca47630b.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_7ab71d89-292f-43cd-aad6-4a18f4ebb1e0.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_16ee1932-bb99-45e3-a814-f89606db5e72.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_64d07b78-6d7a-4bdd-8200-4cc27dc86f17.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_00dda7e8-b3a4-4518-bf7e-705a7ee45148.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_73ee4a5c-74a4-4082-bab7-8a0a0ec0de27.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_51a26132-e1c4-4630-a403-4d734784095c.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_2b6480f1-e238-43b3-b4a8-5b07db2a57cb.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_dc40469c-b148-4b9d-8c19-0c19ddd0f617.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_bd0908eb-7a19-4060-9bf2-4b5a49e78fdc.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_a7b6832d-0695-4cfa-a223-f6489db62aaf.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_34f63a0c-4c1c-4f48-8b5c-0f30220edbe9.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_fa8a99b4-bc55-437c-afa3-b5752fb05d01.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_0dbd05b3-a2f9-46f9-9102-0ff53b4d588b.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_3410574c-44cd-4eac-ab50-c9dcbd000777.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_66f5eb58-5faf-4463-88fb-15cf960d9f93.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_9e67a9b4-50dd-4b19-8cc5-811b014e4dcd.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_c183de08-76a6-4b9c-9bcc-c30f3d0a880c.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_f28d9d5d-30ea-4115-adbb-7b877946f58b.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_f11f6342-76b2-4d6a-99bc-4695041f9855.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_39a14c0b-a514-416f-9efd-a8058568eaee.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_c019535a-63e2-45cd-9b11-d6041627dbbf.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_b159ff80-fdfb-45f7-8f6b-17a87586e2d0.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_16f12d40-e48f-477a-86e5-f2d4a1106566.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_668e45ea-6bef-4e07-b3d0-e45d87aa0ca9.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_0383446f-7660-4422-ad89-358e54da8845.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_6fc019b9-7863-4ad1-b0f3-6ffc52432afd.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_7fe0a826-9fdf-486f-9a90-f841340a0ffd.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_f96d0fc2-b6f5-49e6-858a-2e63bdd7f8a7.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_61e749f9-09ec-4db0-9b44-6fd8768a7980.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_c65323e4-32e2-4770-99a0-db07269229d2.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_d3a0633d-f307-4c4f-8bdd-d65bb7376460.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_d1dba171-e640-4bbc-bbcd-23c8c8294138.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_5caee64b-8c21-4535-b7a7-d90d5bf19aa7.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_cb9afecf-a556-4455-a304-39e70db96ce8.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_ae216dec-6c8d-4a1e-b064-d73bd3ef83a0.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_b37d6c73-2d44-42fa-b3df-cf77c90658e7.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_dd5c6418-4dfd-4bc2-bab2-0f035553e222.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_ba124151-940a-4165-b284-74020924db97.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_282c930a-facf-48a9-9f26-f5e419a718c6.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_b08c32de-3692-44f5-9baa-462698cd9419.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_f29b6475-fd1b-433c-ac7f-be692a0e5421.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_1448aa18-39b6-45c7-8530-cdd31a1510e1.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_7dfbe741-725c-45a0-becb-d52137433c17.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_d8ac0889-cb9d-4a12-a009-6d30233a8052.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_d8cb4ade-7d50-4c0e-9b3a-0cc61bbae59d.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_c339ac05-e0ed-4e41-aeba-246031efd145.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_7089f895-2fd9-4c34-9d7b-173f7d705a36.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_16a198e2-6757-4673-a5d9-267db4a5b8ab.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_335fcd4b-56bd-44ba-9498-95149c98e43e.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_5d3b76c4-54f1-4d5a-bc6d-35162ffcdf02.png",
+                "https://media.forgecdn.net/attachments/description/1242671/description_488673dd-1106-41bd-881b-8ca995906548.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_428bee0c-aee4-4173-a468-af52030a8e47.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_a3abb40c-09ba-4f8b-b918-19d83bc0a692.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_e60f486c-a74b-49dd-9d2a-8ec51974019d.jpg",
+                "https://media.forgecdn.net/attachments/description/1242671/description_a16508f1-4684-43b2-ab65-78a0d28a9f71.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "BedrockUi+ Beta v0.7.mcpack",
+                    "filename": "BedrockUi+ Beta v0.7.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6999/414/BedrockUi%2b%20Beta%20v0.7.mcpack",
+                    "fileLength": 1202071
+                },
+                {
+                    "name": "Bedrock Ui+ Beta v0.6.24.mcpack",
+                    "filename": "Bedrock Ui+ Beta v0.6.24.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6992/527/Bedrock%20Ui%2b%20Beta%20v0.6.24.mcpack",
+                    "fileLength": 1201718
+                }
+            ],
+            "submission_id": 126674,
+            "original_submission_id": 126674,
+            "mainFileId": 6999414,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [
+                {
+                    "changelog": "\u003Cul\u003E\n\u003Cli\u003E\u003Cstrong\u003EUpdated the ender dragon bossbar to the new texture (by Dal4y)\u003C/strong\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+                    "id": 6999414,
+                    "submission_id": 1242671,
+                    "version": 100
+                }
+            ],
+            "type_id": 3,
+            "short_description": "A brand new ui Overhauled from hud+, this ui improves a lots of ui screens, also have so many features that Will helps you in gameplay, such as survival, PVP, etc.",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1202/937/1000625158-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1202/937/1000625158-png.png",
+                "small": "https://media.forgecdn.net/attachments/1202/937/1000625158-png.png"
+            },
+            "update_date": "2025-09-15 11:30:45",
+            "publish_date": "2025-09-15 11:30:45",
+            "id": 1242671,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "hud-plus-b69",
+            "source": "curseforge",
+            "title": "HUD+ Reworked",
+            "summary": "Are you bored with the regular HUD display and you want something new on your HUD that can make it easier for you to do something? Well, You will probably love this pack!",
+            "image": "https://media.forgecdn.net/attachments/1233/193/1000691622-png.png",
+            "created_at": "2025-04-13T07:35:07.397Z",
+            "sort_date": "2025-09-14 12:27:05",
+            "popular": {
+                "popular_week": "811",
+                "popular_month": "4065",
+                "popular_all": "714801"
+            },
+            "tags": [
+                {
+                    "id": 182,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "16x",
+                    "slug": "16x",
+                    "term_id": 486,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 183,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "32x",
+                    "slug": "32x",
+                    "term_id": 487,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/hud-plus-b69",
+            "downloadCount": 79514,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/1240109/description_0da82d16-63a9-40c6-84d7-83fbe20c619c.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_c20aefd7-b4d1-4f54-bc04-442d99ca040f.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_0385ec75-952b-4343-912e-635e2473769c.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_12a5b74f-d3d5-4edf-85d2-3d82f639f1c2.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_d0c9f98a-9171-446e-a3ff-acb05f44078e.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_644a745d-7ebe-4da4-a7c2-01165c3f754e.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_798e310d-cb32-4847-8f6b-238f4eeb30a2.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_6b9f3ce3-7b04-4cdf-9f09-ccfe5277db74.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_4699eb17-9630-41b9-8d74-5ae1319695de.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_abbc50f6-5357-42c1-b558-c70c7cd4c022.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_033c594c-d8bb-4a77-8183-c319f1f344e0.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_856b2f78-0b85-4e87-9ae2-11858d5e777e.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_af2e7ec3-a3dc-405a-9aff-e0af855afced.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_600afe8e-f053-4665-98e3-3abb63d941d0.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_d099b6d3-b333-46ac-8371-e28cddf42492.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_91fb1692-90dc-43cb-805d-e135ce8d5c9e.png",
+                "https://media.forgecdn.net/attachments/description/1240109/description_37bb21a5-8fe2-4d3c-b2e0-a75487b6fca9.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_15291f3f-3add-451c-a184-7c74e2b2b7ed.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_decec5f3-6e67-4ce2-a99e-194cc62fa582.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_63205e62-ec52-4905-8fbf-038cd4716ce5.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_5eebe034-d4f9-4c0f-9efe-532bb62f3eb5.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_096d66ad-3e61-4c5a-9c3d-64a4d77cdb4e.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_17fdd969-ed1b-4eb2-ba42-d3877869c38d.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_2428b83c-2bde-4a6e-8acd-055ddab9cc2c.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_77dae556-1aee-4597-82a7-5d472cb4fe3f.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_54146690-de5a-4fd2-9173-e29d2fd47f13.png",
+                "https://media.forgecdn.net/attachments/description/1240109/description_bf7e95c7-c79d-4f39-ba3c-df5e3581224c.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_6909506e-e0a9-434a-82ce-2d00e25a4446.jpg",
+                "https://media.forgecdn.net/attachments/description/1240109/description_f9ba6be4-c7b2-40fc-807e-5d9dcee8c6de.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "HUD+ Reworked v1.0.13.mcpack",
+                    "filename": "HUD+ Reworked v1.0.13.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6995/850/HUD%2b%20Reworked%20v1.0.13.mcpack",
+                    "fileLength": 690508
+                },
+                {
+                    "name": "HUD+ Reworked v1.0.12.mcpack",
+                    "filename": "HUD+ Reworked v1.0.12.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6976/59/HUD%2b%20Reworked%20v1.0.12.mcpack",
+                    "fileLength": 690509
+                }
+            ],
+            "submission_id": 103924,
+            "original_submission_id": 103924,
+            "mainFileId": 6995850,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "Are you bored with the regular HUD display and you want something new on your HUD that can make it easier for you to do something? Well, You will probably love this pack!",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1233/193/1000691622-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1233/193/1000691622-png.png",
+                "small": "https://media.forgecdn.net/attachments/1233/193/1000691622-png.png"
+            },
+            "update_date": "2025-09-14 12:31:54",
+            "publish_date": "2025-09-14 12:31:54",
+            "id": 1240109,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "no-lava-water-fog-b69-2",
+            "source": "curseforge",
+            "title": "No Lava & Water Fog",
+            "summary": "Are you got distracted of water or lava fogs? This pack removed them completely! Removed water fog and enhance your exploring experience. Also with clearer water surface. And remove lava fog, it's useful for finding ancient debris under the lava pool",
+            "image": "https://media.forgecdn.net/attachments/1153/739/20250226_154623-png.png",
+            "created_at": "2025-04-10T13:18:57.007Z",
+            "sort_date": "2025-09-14 12:17:56",
+            "popular": {
+                "popular_week": "1420",
+                "popular_month": "5596",
+                "popular_all": "73423"
+            },
+            "tags": [
+                {
+                    "id": 182,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "16x",
+                    "slug": "16x",
+                    "term_id": 486,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/no-lava-water-fog-b69-2",
+            "downloadCount": 86965,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/null/description_11a23916-4dc8-4331-b4eb-f297a57d75f3.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_5e8e59d2-7612-4a9c-9a36-83f62465cb84.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_7d3efa12-542e-4fed-aae7-3aee93ba60a7.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "No LavaWater Fog v1.2.12.mcpack",
+                    "filename": "No LavaWater Fog v1.2.12.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6995/817/No%20LavaWater%20Fog%20v1.2.12.mcpack",
+                    "fileLength": 27412
+                },
+                {
+                    "name": "No LavaWater Fog v1.2.11.mcpack",
+                    "filename": "No LavaWater Fog v1.2.11.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6976/45/No%20LavaWater%20Fog%20v1.2.11.mcpack",
+                    "fileLength": 27412
+                }
+            ],
+            "submission_id": 127259,
+            "original_submission_id": 127259,
+            "mainFileId": 6995817,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "Are you got distracted of water or lava fogs? This pack removed them completely! Removed water fog and enhance your exploring experience. Also with clearer water surface. And re...",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1153/739/20250226_154623-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1153/739/20250226_154623-png.png",
+                "small": "https://media.forgecdn.net/attachments/1153/739/20250226_154623-png.png"
+            },
+            "update_date": "2025-09-14 12:22:44",
+            "publish_date": "2025-09-14 12:22:44",
+            "id": 1239696,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "rgb-xp-bar-b69",
+            "source": "curseforge",
+            "title": "RGB XP Bar",
+            "summary": "Does the current xp bar look very boring? And you want to make it more interesting? You may need this pack!Change the old boring xp bar becomes colorful and also with animation",
+            "image": "https://media.forgecdn.net/attachments/1222/959/1000677742-gif.gif",
+            "created_at": "2025-05-14T08:27:43.137Z",
+            "sort_date": "2025-09-14 12:17:05",
+            "popular": {
+                "popular_week": "1292",
+                "popular_month": "4936",
+                "popular_all": "80178"
+            },
+            "tags": [
+                {
+                    "id": 185,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "128x",
+                    "slug": "128x",
+                    "term_id": 491,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/rgb-xp-bar-b69",
+            "downloadCount": 182124,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/1264972/description_3e31cebb-91d0-4137-8835-67f5c64f381d.jpg",
+                "https://media.forgecdn.net/attachments/description/1264972/description_08cdeac8-4583-44cd-b10b-fcca8f6c7741.gif"
+            ],
+            "downloads": [
+                {
+                    "name": "RGB XP BAR v1.2.17.mcpack",
+                    "filename": "RGB XP BAR v1.2.17.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6995/812/RGB%20XP%20BAR%20v1.2.17.mcpack",
+                    "fileLength": 46907
+                },
+                {
+                    "name": "RGB XP BAR v1.2.16.mcpack",
+                    "filename": "RGB XP BAR v1.2.16.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6976/43/RGB%20XP%20BAR%20v1.2.16.mcpack",
+                    "fileLength": 46906
+                }
+            ],
+            "submission_id": 123636,
+            "original_submission_id": 123636,
+            "mainFileId": 6995812,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "Does the current xp bar look very boring? And you want to make it more interesting? You may need this pack!Change the old boring xp bar becomes colorful and also with animation",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1222/959/1000677742-gif.gif",
+                "medium": "https://media.forgecdn.net/attachments/1222/959/1000677742-gif.gif",
+                "small": "https://media.forgecdn.net/attachments/1222/959/1000677742-gif.gif"
+            },
+            "update_date": "2025-09-14 12:22:44",
+            "publish_date": "2025-09-14 12:22:44",
+            "id": 1264972,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "better-inventory-b69",
+            "source": "curseforge",
+            "title": "Better Inventory",
+            "summary": "Are you having trouble organizing your inventory Or when you want to move items from inventory to chest? You need to try this pack!With quick loot, You will no longer have difficulty when you want to tidy up items or move items.",
+            "image": "https://media.forgecdn.net/attachments/1186/909/tak-berjudul179_20241126151848-png.png",
+            "created_at": "2025-05-13T12:59:25.157Z",
+            "sort_date": "2025-09-14 12:16:02",
+            "popular": {
+                "popular_week": "3256",
+                "popular_month": "13921",
+                "popular_all": "156853"
+            },
+            "tags": [
+                {
+                    "id": 183,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "32x",
+                    "slug": "32x",
+                    "term_id": 487,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 182,
+                    "category_id": null,
+                    "created_at": "2021-03-30T06:22:59.000000Z",
+                    "updated_at": "2021-03-30T06:22:59.000000Z",
+                    "name": "16x",
+                    "slug": "16x",
+                    "term_id": 486,
+                    "tag_type_id": 6
+                },
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/better-inventory-b69",
+            "downloadCount": 211138,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/null/description_ec90f2bb-ecbd-4c2b-bafa-c9f052720ea1.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_2e18d79f-3560-4964-8904-cffe35aa0586.jpg",
+                "https://media.forgecdn.net/attachments/description/1264851/description_a59a039d-f1c6-4c84-b837-3e29f3622ce5.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "Better Inventory v1.1.18.mcpack",
+                    "filename": "Better Inventory v1.1.18.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6995/807/Better%20Inventory%20v1.1.18.mcpack",
+                    "fileLength": 26587
+                },
+                {
+                    "name": "Better Inventory v1.1.17.mcpack",
+                    "filename": "Better Inventory v1.1.17.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6979/716/Better%20Inventory%20v1.1.17.mcpack",
+                    "fileLength": 26587
+                }
+            ],
+            "submission_id": 123633,
+            "original_submission_id": 123633,
+            "mainFileId": 6995807,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "Are you having trouble organizing your inventory Or when you want to move items from inventory to chest? You need to try this pack!With quick loot, You will no longer have diffi...",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1186/909/tak-berjudul179_20241126151848-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1186/909/tak-berjudul179_20241126151848-png.png",
+                "small": "https://media.forgecdn.net/attachments/1186/909/tak-berjudul179_20241126151848-png.png"
+            },
+            "update_date": "2025-09-14 12:21:54",
+            "publish_date": "2025-09-14 12:21:54",
+            "id": 1264851,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "trident-remodeled-b69",
+            "source": "curseforge",
+            "title": "Trident Remodeled",
+            "summary": "Improved the Trident model into more detailed looks with the new model",
+            "image": "https://media.forgecdn.net/attachments/1249/841/1000708022-png.png",
+            "created_at": "2025-07-12T11:28:05.597Z",
+            "sort_date": "2025-09-13 13:18:12",
+            "popular": {
+                "popular_week": "117",
+                "popular_month": "639",
+                "popular_all": "3873"
+            },
+            "tags": [
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/trident-remodeled-b69",
+            "downloadCount": 1994,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/null/description_66055626-2947-486f-87d3-3bc1a2f61652.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_543a26ea-3899-4384-9b33-9ceeb5263fce.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "Trident Remodeled v1.0.5.mcpack",
+                    "filename": "Trident Remodeled v1.0.5.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6992/523/Trident%20Remodeled%20v1.0.5.mcpack",
+                    "fileLength": 155729
+                },
+                {
+                    "name": "Trident Remodeled v1.0.4.mcpack",
+                    "filename": "Trident Remodeled v1.0.4.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6959/173/Trident%20Remodeled%20v1.0.4.mcpack",
+                    "fileLength": 155729
+                }
+            ],
+            "submission_id": 127265,
+            "original_submission_id": 127265,
+            "mainFileId": 6992523,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "Improved the Trident model into more detailed looks with the new model",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1249/841/1000708022-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1249/841/1000708022-png.png",
+                "small": "https://media.forgecdn.net/attachments/1249/841/1000708022-png.png"
+            },
+            "update_date": "2025-09-13 13:22:51",
+            "publish_date": "2025-09-13 13:22:51",
+            "id": 1304702,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "connected-glass-borderless",
+            "source": "curseforge",
+            "title": "Fragile's",
+            "summary": "This pack improves any glass related thing become more better",
+            "image": "https://media.forgecdn.net/attachments/1249/840/1000708031-png.png",
+            "created_at": "2025-07-12T11:27:53.613Z",
+            "sort_date": "2025-09-13 13:17:29",
+            "popular": {
+                "popular_week": "144",
+                "popular_month": "695",
+                "popular_all": "94433"
+            },
+            "tags": [
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/connected-glass-borderless",
+            "downloadCount": 2789,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/null/description_c4561468-d46b-4b5b-96e0-6b2c45d5c613.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_d20cfe8d-631e-4790-be54-5ec874c4db77.jpg",
+                "https://media.forgecdn.net/attachments/description/null/description_1e810fac-931b-4cd0-827e-fdc65567d9b3.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "Fragiles v1.0.5.mcpack",
+                    "filename": "Fragiles v1.0.5.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6992/521/Fragiles%20v1.0.5.mcpack",
+                    "fileLength": 72542
+                },
+                {
+                    "name": "Fragiles v1.0.4.mcpack",
+                    "filename": "Fragiles v1.0.4.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6959/170/Fragiles%20v1.0.4.mcpack",
+                    "fileLength": 72541
+                }
+            ],
+            "submission_id": 103755,
+            "original_submission_id": 103755,
+            "mainFileId": 6992521,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "This pack improves any glass related thing become more better",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1249/840/1000708031-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1249/840/1000708031-png.png",
+                "small": "https://media.forgecdn.net/attachments/1249/840/1000708031-png.png"
+            },
+            "update_date": "2025-09-13 13:21:43",
+            "publish_date": "2025-09-13 13:21:43",
+            "id": 1304695,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        },
+        {
+            "slug": "ore-visualizer",
+            "source": "curseforge",
+            "title": "Ore Visualizer",
+            "summary": "This pack will add a feature for finding ores best position",
+            "image": "https://media.forgecdn.net/attachments/1250/832/1000705024-png.png",
+            "created_at": "2025-07-08T08:24:53.407Z",
+            "sort_date": "2025-09-13 12:53:45",
+            "popular": {
+                "popular_week": "186",
+                "popular_month": "787",
+                "popular_all": "4257"
+            },
+            "tags": [
+                {
+                    "id": 1282,
+                    "category_id": null,
+                    "created_at": "2024-09-19T13:45:17.000000Z",
+                    "updated_at": "2024-09-19T13:45:17.000000Z",
+                    "name": "1.21.30",
+                    "slug": "1-21-30",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1284,
+                    "category_id": null,
+                    "created_at": "2024-12-03T19:06:47.000000Z",
+                    "updated_at": "2024-12-03T19:06:47.000000Z",
+                    "name": "1.21.50",
+                    "slug": "1-21-50",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1288,
+                    "category_id": null,
+                    "created_at": "2025-05-15T18:53:03.000000Z",
+                    "updated_at": "2025-05-15T18:53:03.000000Z",
+                    "name": "1.21.81",
+                    "slug": "1-21-81",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1281,
+                    "category_id": null,
+                    "created_at": "2024-08-14T13:29:54.000000Z",
+                    "updated_at": "2024-08-14T13:29:54.000000Z",
+                    "name": "1.21.20",
+                    "slug": "1-21-20",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1286,
+                    "category_id": null,
+                    "created_at": "2025-04-24T15:58:14.000000Z",
+                    "updated_at": "2025-04-24T15:58:14.000000Z",
+                    "name": "1.21.73",
+                    "slug": "1-21-73",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1289,
+                    "category_id": null,
+                    "created_at": "2025-06-19T14:08:36.000000Z",
+                    "updated_at": "2025-06-19T14:08:36.000000Z",
+                    "name": "1.21.90",
+                    "slug": "1-21-90",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1290,
+                    "category_id": null,
+                    "created_at": "2025-07-19T13:12:56.000000Z",
+                    "updated_at": "2025-07-19T13:12:56.000000Z",
+                    "name": "1.21.94",
+                    "slug": "1-21-94",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1280,
+                    "category_id": null,
+                    "created_at": "2024-06-15T18:49:31.000000Z",
+                    "updated_at": "2024-06-15T18:49:31.000000Z",
+                    "name": "1.21",
+                    "slug": "1-21",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1283,
+                    "category_id": null,
+                    "created_at": "2024-10-23T00:42:35.000000Z",
+                    "updated_at": "2024-10-23T00:42:35.000000Z",
+                    "name": "1.21.41",
+                    "slug": "1-21-41",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1285,
+                    "category_id": null,
+                    "created_at": "2025-03-26T00:13:39.000000Z",
+                    "updated_at": "2025-03-26T00:13:39.000000Z",
+                    "name": "1.21.70",
+                    "slug": "1-21-70",
+                    "term_id": null,
+                    "tag_type_id": 11
+                },
+                {
+                    "id": 1287,
+                    "category_id": null,
+                    "created_at": "2025-05-07T15:19:52.000000Z",
+                    "updated_at": "2025-05-07T15:19:52.000000Z",
+                    "name": "1.21.80",
+                    "slug": "1-21-80",
+                    "term_id": null,
+                    "tag_type_id": 11
+                }
+            ],
+            "url": "https://www.curseforge.com/minecraft-bedrock/texture-packs/ore-visualizer",
+            "downloadCount": 3436,
+            "submission_images": [
+                "https://media.forgecdn.net/attachments/description/1302128/description_09311ca0-7648-467e-a466-152b346f5007.jpg",
+                "https://media.forgecdn.net/attachments/description/1302128/description_80cff7b3-e606-4123-a18a-9eae20586182.jpg",
+                "https://media.forgecdn.net/attachments/description/1302128/description_2a6eaa9c-7e77-41d3-ac1c-e17021fd34f1.jpg"
+            ],
+            "downloads": [
+                {
+                    "name": "Ore Visualizer v1.0.8.mcpack",
+                    "filename": "Ore Visualizer v1.0.8.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6992/461/Ore%20Visualizer%20v1.0.8.mcpack",
+                    "fileLength": 19317
+                },
+                {
+                    "name": "Ore Visualizer v1.0.7.mcpack",
+                    "filename": "Ore Visualizer v1.0.7.mcpack",
+                    "downloadUrl": "https://edge.forgecdn.net/files/6959/168/Ore%20Visualizer%20v1.0.7.mcpack",
+                    "fileLength": 19316
+                }
+            ],
+            "submission_id": 4346001302128,
+            "original_submission_id": 0,
+            "mainFileId": 6992461,
+            "display_name": "Bruhh69",
+            "username": "Bruhh69",
+            "user_id": 967795,
+            "user_nicename": "bruhh69",
+            "user_avatar": "https://r2.mcpedl.com/users/967795/d44e5a9bb55b9934557d4c27328efb44.png",
+            "user_role": 1,
+            "comments_enabled": true,
+            "average_rating": "5",
+            "revisions": [],
+            "type_id": 3,
+            "short_description": "This pack will add a feature for finding ores best position",
+            "categories": [
+                {
+                    "name": "Minecraft PE Texture Packs",
+                    "slug": "texture-packs"
+                }
+            ],
+            "thumbnails": {
+                "large": "https://media.forgecdn.net/attachments/1250/832/1000705024-png.png",
+                "medium": "https://media.forgecdn.net/attachments/1250/832/1000705024-png.png",
+                "small": "https://media.forgecdn.net/attachments/1250/832/1000705024-png.png"
+            },
+            "update_date": "2025-09-13 12:57:41",
+            "publish_date": "2025-09-13 12:57:41",
+            "id": 1302128,
+            "server_information": null,
+            "server_ip": "",
+            "servertype": [],
+            "port": 19132,
+            "is_bookmarked": false,
+            "status": "ACCEPTED"
+        }
+    ],
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "to": 10,
+        "last_page": 3,
+        "per_page": 10,
+        "total": 24,
+        "type": "",
+        "filterTitle": "Mods",
+        "seo": {
+            "slug": null,
+            "pageTitle": "Minecraft PE Mods - Bedrock Edition | MCPEDL",
+            "metaTags": []
+        }
+    },
+    "updated_at": "Saturday, 20-Sep-2025 05:20:15 UTC"
+}

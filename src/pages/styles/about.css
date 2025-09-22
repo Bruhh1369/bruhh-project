@@ -49,16 +49,13 @@
 .faq-description {
     border-image: url(/src/assets/templates/ore-ui/cards/card-footer-bottommost.png) 4 4 2 4 fill / 4px 4px 2px 4px;
     max-height: 0;
-    opacity: 0;
     overflow: hidden;
-    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s;
-    will-change: max-height, opacity;
+    display: none;
 }
 
 .faq-description.open {
     max-height: 200px;
-    opacity: 1;
-    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s;
+    display: block;
 }
 
 .faq-description p {

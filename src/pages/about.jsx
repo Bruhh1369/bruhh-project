@@ -49,7 +49,9 @@ const TsWrapper = ({ name = "Unknown", rank = "Beginner" }) => {
 }
 
 const FAQCard = ({ description, question }) => {
-    const [open, setOpen] = useState(false);
+
+    const [open, setOpen] = useState(false)
+    const [visibility, setVisibility] = useState("")
 
     return (
         <div className="faq-card-item">
@@ -59,7 +61,14 @@ const FAQCard = ({ description, question }) => {
                     <p>{open ? "-" : "+"}</p>
                 </span>
             </button>
-            <div className={clsx("faq-description", { open })}>
+            <input type="checkbox"
+                checked={open}
+                onChange={() => {
+                    setVisibility(open ? "" : "open")
+                    setOpen((prev) => !prev)
+                }}
+            />
+            <div className={clsx("faq-description", visibility)}>
                 <p>{description}</p>
             </div>
         </div>
